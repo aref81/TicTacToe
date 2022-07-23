@@ -1,6 +1,6 @@
 # Tic Tac Toe 
  ## Amirkabir University of Technology
-   Tic Tac Toe  gane versus PC!<br>
+   Tic Tac Toe  game versus PC!<br>
 
 # Screen Shots : 
 
